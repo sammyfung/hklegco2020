@@ -6,6 +6,7 @@ The project includes a web scraper to consolidate the data of Hong Kong Legislat
 ## Sample Data
 
 * [Hong Kong Legislative Council 2020 Election (Basic) Data](https://github.com/sammyfung/hklegco2020/blob/main/sample-data/hklegco2020-sorted.csv) including district name, nominee name, affiliation, etc.
+* [Hong Kong Legislative Council 2020 Election Data with Enhanced Data](https://github.com/sammyfung/hklegco2020/blob/main/sample-data/hklegco2020-sorted-enhanced.csv) including basic data, data from wikipedia, current status, political camp, pro-democracy primaries data, 2016 election data, etc.
 
 Above enhanced sample data are for reference only, as of 2021/8/10, please contribute if any data update or correction.
 
